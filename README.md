@@ -1,3 +1,3 @@
 # LHS
 Last Hen Standing
-victorwinberg.github.io/LHS
+http://victorwinberg.github.io/LHS/
